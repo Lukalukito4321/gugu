@@ -1,0 +1,4 @@
+providers = ["python"] # Tell Nixpacks to use the Python build plan
+
+[start]
+cmd = "python bot.py" # Tell Nixpacks to start your web.py file
